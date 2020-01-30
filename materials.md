@@ -11,4 +11,14 @@ La repercusión del viento en la naturaleza y los distintos materiales. (Trabajo
 ### Wind Touch
 Como afecta el viento a los distintos materiales.
 ## Grups
+### GRUPO 3
+### TITULO
+Wind Touch: El título tiene una relación a que según la dirección y velocidad del viento tiene diferentes estilos.
+### ESPACIO
+Exterior, naturaleza (campo y montaña)
+### MATERIALES
+-Naturales: Viento, Madera, Vegetación, Plantas, Conchas, Piedras, Piñas.
+-Artificial: Papel aluminio, Motores, Ladrillos, Placas de metal, Plástico, Bateria, Cinta, Esponja, Regadera, Plato.
+### CONCEPTO
+Impacto del hombre en la naturaleza.
 ## Classe
